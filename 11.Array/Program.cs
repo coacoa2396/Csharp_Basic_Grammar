@@ -8,7 +8,7 @@ namespace _11._Array
 {
     internal class Program
     {
-        static void Main(string[] args)
+        static void Main(string[] args) 
         {
             /*******************************************************************
              * 배열 (Array)
