@@ -1,6 +1,6 @@
 ﻿namespace _07.Class
 {
-    internal class Program
+    internal class Program 
     {
         /***********************************************************************
         * 클래스 (class)
