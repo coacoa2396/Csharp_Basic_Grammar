@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace _15.Event
 {
-    public class Architecture
+    public class Architecture 
     {
         /****************************************************************
          * 이벤트의 사용의미
