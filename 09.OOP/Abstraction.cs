@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace _09.OOP
 {
-    public class Abstraction
+    public class Abstraction 
     {
         /***************************************************************************
          * 추상화 (Abstraction)
