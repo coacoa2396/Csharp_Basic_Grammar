@@ -88,7 +88,7 @@ namespace _00._programming
             
             Console.WriteLine("접속종료");
             
-            Console.WriteLine("Hello, World!"); //콘솔출력.
+            Console.WriteLine("Hello, World!"); //콘솔출력
 
         }
     }
