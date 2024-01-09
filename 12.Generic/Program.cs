@@ -1,6 +1,6 @@
 ﻿namespace _12.Generic
 {
-    internal class Program
+    internal class Program 
     {
         /********************************************************************************************
          * 일반화 (Generic)
