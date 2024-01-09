@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace _16.Additional
 {
-    public static class ExtensionMethod
+    public static class ExtensionMethod 
     {
         // <확장메서드>
         // 클래스의 원래 형식을 수정하지 않고도 기존 형식에 함수를 추가할 수 있음
