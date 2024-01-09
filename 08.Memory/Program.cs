@@ -1,6 +1,6 @@
 ﻿namespace _08.Memory
 {
-    internal class Program
+    internal class Program 
     {
         /****************************************************************
         * 메모리 (Memory)
