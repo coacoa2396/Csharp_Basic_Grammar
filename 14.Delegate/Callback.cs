@@ -7,7 +7,7 @@ using static _14.Delegate.Callback;
 
 namespace _14.Delegate
 {
-    public class Callback
+    public class Callback 
     {
         /*******************************************************************************
         * 콜백함수
