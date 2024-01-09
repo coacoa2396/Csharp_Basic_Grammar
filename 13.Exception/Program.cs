@@ -1,6 +1,6 @@
 ﻿namespace _13._Exception
 {
-    internal class Program
+    internal class Program 
     {
         /****************************************************************
          * 예외처리 (Exception Handling)
