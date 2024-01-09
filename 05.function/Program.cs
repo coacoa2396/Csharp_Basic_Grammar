@@ -3,7 +3,7 @@ using static System.Net.Mime.MediaTypeNames;
 
 namespace _05.function
 {
-    internal class Program
+    internal class Program 
     {
         /****************************************************************
         * 함수 (Function)
