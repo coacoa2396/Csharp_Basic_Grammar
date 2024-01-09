@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace _10.Interface
 {
 
-    public class Architecture
+    public class Architecture 
     {
         /**********************************************************************************
         * 추상클래스와 인터페이스
